@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Nunito:ital,wght@0,300;1,500&family=Outfit:wght@100..900&family=Pacifico&family=Poppins:wght@500&family=Raleway:ital,wght@0,100..900;1,100..900&family=Satisfy&family=Square+Peg&family=Yanone+Kaffeesatz&display=swap');
+
+
+*{
+  padding:  0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Outfit";
+}
+#root{
+  min-height: 100vh;
+  display: flex;
+}
